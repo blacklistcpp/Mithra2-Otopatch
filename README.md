@@ -1,1 +1,1 @@
-# mithra-otopatch
+# Mithra2 Otopatcher
